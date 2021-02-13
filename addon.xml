@@ -17,8 +17,8 @@
         <platform>all</platform>
         <language>en</language>
         <email>mark.koenig@kleiner-schelm.de</email>
-        <website>https://www.kleiner-schelm.de</website>
-        <source>https://github.com/mking2203/plugin.video.otrstream</source>
+        <website>https://github.com/mking2203/plugin.video.enigmark</website>
+        <source>https://github.com/mking2203/plugin.video.enigmark</source>
 		<assets>
             <icon>icon.png</icon>
 		</assets>
