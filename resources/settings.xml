@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30000">
+    <setting id="ip" type="text" label="30010" default="192.168.178.140" />
+    <setting id="stream" type="text" label="30011" default="8001" />   
+  </category>
+</settings>
